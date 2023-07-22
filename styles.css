@@ -27,7 +27,7 @@ p {
 }
 
 #error-message {
-  background-color: #e07187;
+  background-color: crimson;
   color: #fff;
   max-width: 80%;
   margin: 0.5rem auto 0;

@@ -62,11 +62,11 @@ p {
 }
 
 input[type='submit'] {
-  background-color: #f1be32;
+  background-color: #fecc4c;
+  border-color: #f1a02a;
   font-family: 'Roboto', sans-serif;
   padding: 0.3rem;
-  border: 1px solid transparent;
-  border-radius: 2px;
+  border-width: 1px;
   cursor: pointer;
 }
 

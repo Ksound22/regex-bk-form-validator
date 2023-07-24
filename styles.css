@@ -89,9 +89,13 @@ input[type='submit']:hover {
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 667px) {
+  form {
+    top: 60%;
+  }
+
   #error-message {
     margin: 0.5rem auto 0;
-    padding: 0.1rem;
+    padding: 0.1rem 0.4rem;
   }
 }

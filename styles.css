@@ -81,3 +81,10 @@ input[type='submit']:hover {
 .show {
   display: block;
 }
+
+@media screen and (max-width: 768px) {
+  #error-message {
+    margin: 0.5rem auto 0;
+    padding: 0.1rem 0.2rem;
+  }
+}
